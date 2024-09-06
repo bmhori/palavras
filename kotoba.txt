@@ -3,7 +3,7 @@ SHUKA KAIGI – inspeção do produto acabado por um time multifuncional, com a 
 HENKATEN- Pontos de mudança do processo
 KAKOTORA- Lições aprendidas do passado
 MARU IN – ponto de montagem ou interface com o cliente
-POKAYOKI -  Dispositivo a prova de erro
+POKAYOKe -  Dispositivo a prova de erro
 MARUSHIN – Testes de Confiabilidade
 KOKI- Departamento DENSO de Fabricação de Maquinas/Equipamentos
  
