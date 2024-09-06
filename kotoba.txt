@@ -1,0 +1,18 @@
+SHOKIRYODO – nome em Japonês para o ESC (Folha de Capa + Verso com a designação do nível)
+SHUKA KAIGI – inspeção do produto acabado por um time multifuncional, com a visão de falhas de montagem x desenho
+HENKATEN- Pontos de mudança do processo
+KAKOTORA- Lições aprendidas do passado
+MARU IN – ponto de montagem ou interface com o cliente
+POKAYOKI -  Dispositivo a prova de erro
+MARUSHIN – Testes de Confiabilidade
+KOKI- Departamento DENSO de Fabricação de Maquinas/Equipamentos
+ 
+ 
+MARU
+ 
+STATUS de deliberação
+ 
+MARU - aprovado
+SANKAKU - PENDENCIA
+BATSU - Reprovado
+
